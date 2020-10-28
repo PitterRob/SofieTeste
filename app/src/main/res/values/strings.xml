@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">sofie</string>
+
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="email">Email</string>
+    <string name="titulo">Título</string>
+    <string name="nova">Nova Tarefa</string>
+    <string name="description">Descrição da tarefa</string>
+    <string name="no_connection">Verifique sua conexão com a internet e tente novamente</string>
+    <string name="sucess">Nova tafera salva com sucesso</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
